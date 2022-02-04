@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file.upload",
+      "type": "com.example.parsaBadiei.FileUploadProperties",
+      "sourceType": "com.example.parsaBadiei.FileUploadProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload.location",
+      "type": "java.lang.String",
+      "sourceType": "com.example.parsaBadiei.FileUploadProperties"
+    }
+  ],
+  "hints": []
+}
